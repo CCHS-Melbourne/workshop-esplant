@@ -1,0 +1,3 @@
+[submodule "vendor/Hardware"]
+	path = vendor/Hardware
+	url = https://github.com/mage0r/ESPlant
