@@ -3,6 +3,8 @@ Open Hardware Miniconf 2016 - ESPlant - Environment Sensor Plant
 
 Welcome to the linux.conf.au Open Hardware Project.  You can see information about this and other MiniConfs at http://www.openhardwareconf.org/wiki/Main_Page
 
+Register to lock in your place at http://goo.gl/forms/JxcJ2YjQnI
+
 The ESPlant kit is designed to provide an open source platform to transmit environmental data to a central source using the power of wifi.
 
 This year we've got a pretty tricky restriction.  Unfortunately we don't have a workshop where we can solder so it's screw terminals and hot glue all the way down.
