@@ -5,7 +5,7 @@ Welcome to the linux.conf.au Open Hardware Project.  You can see information abo
 
 The ESPlant kit is designed to provide an open source platform to transmit environmental data to a central source using the power of wifi.
 
-This year we've got a pretty tricky restriction.  Unfortunately we don't have a workshop where we can solder so this year it's screw terminals and hot glue all the way down.
+This year we've got a pretty tricky restriction.  Unfortunately we don't have a workshop where we can solder so it's screw terminals and hot glue all the way down.
 
 ![Board Front](Photos/ESPlant.front.png?raw=true "front")
 ![Board Back](Photos/ESPlant.back.png?raw=true "back")
